@@ -1,0 +1,9 @@
+.card {
+    border: none;
+}
+.card-bg {
+    background-color: #f9f9f9;
+}
+.border {
+    border: 3px solid #fed136!important;
+}
